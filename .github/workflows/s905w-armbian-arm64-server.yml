@@ -23,7 +23,7 @@ on:
       armbian_board:
         description: "Select device board."
         required: false
-        default: "amlogic"
+        default: "s905w-x96-mini"
         type: choice
         options:
           - allwinner
